@@ -7,7 +7,7 @@
 [<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="email" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" />][telegram]
+[<img align="left" alt="email" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OKETvEEpPUsfrDZ2H7UaB3zSPOiGMctTKQ&usqp=CAU" />][telegram]
 <br />
 
 ### Languages and Tools:
